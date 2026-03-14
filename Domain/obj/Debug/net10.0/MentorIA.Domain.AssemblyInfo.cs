@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MentorIA.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53dacaf4996641cea6600043f0465027acbe259b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MentorIA.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MentorIA.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

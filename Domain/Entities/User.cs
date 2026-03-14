@@ -1,4 +1,4 @@
-﻿using static AprenderIA.Domain.Entities.Enum;
+﻿using static AprenderIA.Domain.Entities.Enums;
 
 namespace AprenderIA.Domain.Entities;
 
@@ -11,7 +11,7 @@ public class User
 
     public UserRole Role { get; set; }
 
-    public string Password{ get; set; } = string.Empty;
+    public string PasswordHash{ get; set; } = string.Empty;
 
 
 }
