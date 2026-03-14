@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\agust\\Desktop\\dotnet\\MentorIA\\Domain\\MentorIA.Domain.csproj",
-      "projectName": "MentorIA.Domain",
-      "projectPath": "C:\\Users\\agust\\Desktop\\dotnet\\MentorIA\\Domain\\MentorIA.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\agust\\Desktop\\dotnet\\MentorIA\\Domain\\AprenderIA.Domain.csproj",
+      "projectName": "AprenderIA.Domain",
+      "projectPath": "C:\\Users\\agust\\Desktop\\dotnet\\MentorIA\\Domain\\AprenderIA.Domain.csproj",
       "packagesPath": "C:\\Users\\agust\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\agust\\Desktop\\dotnet\\MentorIA\\Domain\\obj\\",
       "projectStyle": "PackageReference",

@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AprenderIA", "MentorIA\AprenderIA.csproj", "{096CA9C3-0474-400A-B85A-59EBF3359A1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MentorIA.Domain", "Domain\MentorIA.Domain.csproj", "{745D2F8E-0687-4845-A631-32DA1DB7E62A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AprenderIA.Domain", "Domain\AprenderIA.Domain.csproj", "{745D2F8E-0687-4845-A631-32DA1DB7E62A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AprenderIA.Application", "MentorIA.Application\AprenderIA.Application.csproj", "{6DF2F787-C5ED-458D-9A0A-1F7557280765}"
 EndProject

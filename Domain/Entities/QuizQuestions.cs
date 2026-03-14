@@ -1,6 +1,6 @@
 using System;
 
-namespace MentorIA.Domain.Entities;
+namespace AprenderIA.Domain.Entities;
 
 public class QuizQuestions
 {

@@ -1,7 +1,7 @@
 using System;
 using AprenderIA.Domain.Entities;
 
-namespace MentorIA.Domain.Entities;
+namespace AprenderIA.Domain.Entities;
 
 public class TeacherStudent
 {

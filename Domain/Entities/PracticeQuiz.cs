@@ -1,7 +1,8 @@
 using System;
-using MentorIA.Domain.Entities;
+using AprenderIA.Domain.Entities;
 
-namespace MentorIA.Domain.Entities;
+
+namespace AprenderIA.Domain.Entities;
 
 public class PracticeQuiz
 {
