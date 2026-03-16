@@ -12,6 +12,6 @@ public Material Material { get; set; }= null!;
 public string Title { get; set; } = string.Empty;
 public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 
-public List<QuizQuestions> Questions { get; set; } = new List<QuizQuestions>();
+public List<QuizQuestions> Questions { get; set; } = [];
 
 }

@@ -1,0 +1,16 @@
+C:\Users\agust\Desktop\dotnet\MentorIA\MentorIA.Application\bin\Debug\net8.0\AprenderIA.Application.deps.json
+C:\Users\agust\Desktop\dotnet\MentorIA\MentorIA.Application\bin\Debug\net8.0\AprenderIA.Application.dll
+C:\Users\agust\Desktop\dotnet\MentorIA\MentorIA.Application\bin\Debug\net8.0\AprenderIA.Application.pdb
+C:\Users\agust\Desktop\dotnet\MentorIA\MentorIA.Application\bin\Debug\net8.0\AprenderIA.Domain.dll
+C:\Users\agust\Desktop\dotnet\MentorIA\MentorIA.Application\bin\Debug\net8.0\AprenderIA.Domain.pdb
+C:\Users\agust\Desktop\dotnet\MentorIA\MentorIA.Application\obj\Debug\net8.0\AprenderIA.Application.csproj.AssemblyReference.cache
+C:\Users\agust\Desktop\dotnet\MentorIA\MentorIA.Application\obj\Debug\net8.0\AprenderIA.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agust\Desktop\dotnet\MentorIA\MentorIA.Application\obj\Debug\net8.0\AprenderIA.Application.AssemblyInfoInputs.cache
+C:\Users\agust\Desktop\dotnet\MentorIA\MentorIA.Application\obj\Debug\net8.0\AprenderIA.Application.AssemblyInfo.cs
+C:\Users\agust\Desktop\dotnet\MentorIA\MentorIA.Application\obj\Debug\net8.0\AprenderIA.Application.csproj.CoreCompileInputs.cache
+C:\Users\agust\Desktop\dotnet\MentorIA\MentorIA.Application\obj\Debug\net8.0\AprenderIA.Application.sourcelink.json
+C:\Users\agust\Desktop\dotnet\MentorIA\MentorIA.Application\obj\Debug\net8.0\Aprender.DBD0FA3D.Up2Date
+C:\Users\agust\Desktop\dotnet\MentorIA\MentorIA.Application\obj\Debug\net8.0\AprenderIA.Application.dll
+C:\Users\agust\Desktop\dotnet\MentorIA\MentorIA.Application\obj\Debug\net8.0\refint\AprenderIA.Application.dll
+C:\Users\agust\Desktop\dotnet\MentorIA\MentorIA.Application\obj\Debug\net8.0\AprenderIA.Application.pdb
+C:\Users\agust\Desktop\dotnet\MentorIA\MentorIA.Application\obj\Debug\net8.0\ref\AprenderIA.Application.dll

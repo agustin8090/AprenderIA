@@ -1,0 +1,12 @@
+c:\Users\agust\Desktop\dotnet\MentorIA\Domain\obj\Debug\net8.0\AprenderIA.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\agust\Desktop\dotnet\MentorIA\Domain\obj\Debug\net8.0\AprenderIA.Domain.AssemblyInfoInputs.cache
+c:\Users\agust\Desktop\dotnet\MentorIA\Domain\obj\Debug\net8.0\AprenderIA.Domain.AssemblyInfo.cs
+c:\Users\agust\Desktop\dotnet\MentorIA\Domain\obj\Debug\net8.0\AprenderIA.Domain.csproj.CoreCompileInputs.cache
+c:\Users\agust\Desktop\dotnet\MentorIA\Domain\obj\Debug\net8.0\AprenderIA.Domain.sourcelink.json
+C:\Users\agust\Desktop\dotnet\MentorIA\Domain\bin\Debug\net8.0\AprenderIA.Domain.deps.json
+C:\Users\agust\Desktop\dotnet\MentorIA\Domain\bin\Debug\net8.0\AprenderIA.Domain.dll
+C:\Users\agust\Desktop\dotnet\MentorIA\Domain\bin\Debug\net8.0\AprenderIA.Domain.pdb
+C:\Users\agust\Desktop\dotnet\MentorIA\Domain\obj\Debug\net8.0\AprenderIA.Domain.dll
+C:\Users\agust\Desktop\dotnet\MentorIA\Domain\obj\Debug\net8.0\refint\AprenderIA.Domain.dll
+C:\Users\agust\Desktop\dotnet\MentorIA\Domain\obj\Debug\net8.0\AprenderIA.Domain.pdb
+C:\Users\agust\Desktop\dotnet\MentorIA\Domain\obj\Debug\net8.0\ref\AprenderIA.Domain.dll
